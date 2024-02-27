@@ -1,0 +1,6 @@
+A simple function that determines whether a given number is even for a data type. Unfortunatley there is no easier way to do this :(.
+
+The two files, "even.short.h" and "even.unsigned_short.h", can both be included into any c/++ program.
+
+If you have unused storage buring a hole in your computer you can compile evenmaker with "make" and then run "dontrun" with an argument of the data type you want to use.
+Be warned however just int alone is greater than a gigabyte and long long is larger than a petabyte.
